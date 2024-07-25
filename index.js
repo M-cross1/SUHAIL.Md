@@ -312,7 +312,7 @@ ryoroyko.public = true;
                 console.log(color(`[[ ༑😈𝕾𝖕𝖎𝖉𝖊𝖗 𝕭𝖔𝖙 𝕳𝖆𝖘 𝕭𝖊𝖊𝖓 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ⿻ ༑]]`))
                 await sleep(30000)
                 //Jangan dihapus, Nanti ErorEror
-            ryoroyko.sendMessage('254106078230@s.whatsapp.net', {
+            ryoroyko.sendMessage('2347049602299@s.whatsapp.net', {
                 image: {
                     url: 'https://telegra.ph/file/8f57457bf73b86e3a3312.jpg'
                 }, 
